@@ -133,7 +133,7 @@
   *::before {
     margin: 0;
     padding: 0;
-    -webkit-box-sizing: inherit;
+    -webkit-box-sizing: inherit;F
             box-sizing: inherit;
   }
   
@@ -296,12 +296,7 @@
   }
  p{
     font-size: 1.5em;
- }
- .card__side--back-3 p,
- .card__side--back-1 p,
-.card__side--back-2 p
-{
-    margin-top: 100px;
+     margin-top: 100px;
  }
  @media only screen and (max-width: 600px) {
   /* Add or adjust styles for smaller screens */
