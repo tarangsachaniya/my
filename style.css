@@ -297,7 +297,10 @@
  p{
     font-size: 1.5em;
  }
- .card__side--back-3 p{
+ .card__side--back-3 p,
+ .card__side--back-1 p,
+.card__side--back-2 p
+{
     margin-top: 100px;
  }
  @media only screen and (max-width: 600px) {
