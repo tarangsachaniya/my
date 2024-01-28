@@ -19,7 +19,8 @@
     font-weight: 400;
     line-height: 1.7;
     color: #fff;
-    background: pink;
+    background: url("https://img.freepik.com/free-vector/white-abstract-background_23-2148817571.jpg?w=1060&t=st=1706442724~exp=1706443324~hmac=2441ff53a28818eae7cc1408b5aecd759c06db0a509ea60cec9e0448af4062f9");
+    background-size:cover;
   }
   img{
     height: 400px;
