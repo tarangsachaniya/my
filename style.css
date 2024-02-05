@@ -13,7 +13,11 @@
   .u-margin-top-big {
     margin-top: 5rem !important;
   }
-  
+  .row > *{
+      padding-right: 10px;
+    padding-left: 10px;
+    margin-top:5px;
+  }
   body {
       margin: 0;
       padding: 0;
